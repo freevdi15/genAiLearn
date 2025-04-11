@@ -14,3 +14,7 @@ langchain-openai
 ollama
 langchain-openai
 langchain_groq
+fastapi
+uvicorn
+langserve[all]
+pydantic<2.0

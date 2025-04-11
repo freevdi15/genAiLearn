@@ -1,5 +1,5 @@
 /venv
-
+/myenv
 *.pyc
 __pycache__/
 .pytest_cache/
@@ -7,4 +7,3 @@ __pycache__/
 *.log
 *.env
 .vscode/
-env/
